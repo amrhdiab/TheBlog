@@ -39,7 +39,7 @@ Built on laravel 5.5
 - Categories CRUD (Create, Read, Update, Delete).
 - Tags CRUD (Create, Read, Update, Delete).
 - Users CRUD (Create, Read, Update, Delete).
-- Profile.
+- My Profile.
 - User messages.
 - Website settings (contact details - info).
 
